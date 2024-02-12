@@ -31,7 +31,7 @@ function Home() {
                 <div className="icon-container border rounded p-1 bg-danger w-50">
                   <a
                     href="tel:+918176932325"
-                    className="text-decoration-none fs-5 text-white fw-medium m-3"
+                    className="text-decoration-none fs-6 text-white fw-medium m-3"
                   >
                     <IoCallOutline className="mx-2 mb-2 fw-bold" />
                     Call Now
