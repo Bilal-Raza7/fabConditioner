@@ -1,0 +1,25 @@
+.fs-20{
+    font-size: 3rem;
+}
+.fs-10{
+    font-size: 2rem;
+}
+.color-blue{
+    color: #07366A;
+}
+.radius{
+    border: 1px solid #07366A;
+    border-radius: 50%;
+}
+.cusHight{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    overflow: hidden;
+}
+.color-blue-bg{
+    padding: 0.7rem;
+    background-color: #07366A;
+    border-radius: 5px;
+    color: #fff;
+}
